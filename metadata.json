@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI",
+  "description": "AI-Powered Skill & Employment Intelligence Platform bridging skills to opportunities, learning roadmaps, training effectiveness, and regional workforce analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
